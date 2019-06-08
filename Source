@@ -1,0 +1,10 @@
+void setup()
+{
+size(200,200);
+ p= new perceptron1();
+float []input={1,0.5};
+println(guess);
+}
+void draw(){
+
+}
